@@ -323,5 +323,4 @@ Maintained by [Wok Cloud](https://wokcloud.pt).
 
 Contributors:
 
-- João Otávio Stivi ([@JoaoOtavioS](https://github.com/JoaoOtavioS))
-- Richard Martins ([@richaardev](https://github.com/richaardev))
+- Martim Peixe ([@gurypeixe](https://github.com/gurypeixe))
